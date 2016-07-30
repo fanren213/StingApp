@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent">
+        <Button
+            android:id="@+id/main_menu"
+            android:text="@string/main_menu"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/video"
+            android:text="@string/video"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/audio"
+            android:text="@string/audio"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/wallpaper"
+            android:text="@string/wallpaper"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+        <Button
+            android:id="@+id/mail"
+            android:text="@string/add_mail"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+    </FrameLayout>
+</LinearLayout> 

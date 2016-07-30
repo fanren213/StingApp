@@ -1,0 +1,39 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" tools:context="bonanc.stingapp.ui.MailFragment"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+        android:text="Sign on Mail List"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/labelaudio"
+        android:layout_marginTop="20dp" />
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/first_name"
+        android:hint="First Name"
+        android:layout_gravity="center_horizontal"/>
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/last_name"
+        android:hint="Last Name"
+        android:layout_gravity="center_horizontal"/>
+    <EditText
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/mail_add"
+        android:hint="E-Mail"
+        android:layout_gravity="center_horizontal"
+        android:inputType="textEmailAddress"/>
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:id="@+id/submit"
+        android:text="submit"
+        android:layout_gravity="center_horizontal"/>
+
+</LinearLayout>

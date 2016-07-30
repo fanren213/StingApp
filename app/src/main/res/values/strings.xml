@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StingApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="video">Video</string>
+    <string name="audio">Audio</string>
+    <string name="wallpaper">Wall Paper</string>
+    <string name="add_mail">Add to Maillist</string>
+    <string name="name">Sting (Gordon Matthew Thomas Sumner)</string>
+    <string name="dob">DOB: 2 October 1951</string>
+    <string name="phone">Phone: (412)111-1111</string>
+    <string name="email">E-Mail: sting@sting.com</string>
+    <string name="website">&lt;a href=\'http://www.sting.com\'&gt;Website: www.sting.com&lt;/a&gt;</string>
+    <string name="likes">Likes: Singing</string>
+    <string name="dislikes">Dislikes: Rock Music</string>
+    <string name="facebook">&lt;a href=\'https://www.facebook.com/sting\'&gt;Facebook&lt;/a&gt;</string>
+    <string name="twitter">&lt;a href=\'https://twitter.com/sting\'&gt;Twitter&lt;/a&gt;</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
