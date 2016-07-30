@@ -2,7 +2,8 @@
 
 Bonan Cao <bonanc@andrew.cmu.edu>
 Nov. 12. 2015
-This directory holds the the Android project for Mini 2 Assignment 3 Part B of 18-641, the class diagram and the outputs of project. This is an app used for marketing of Sting. The details are as follows.
+This directory holds the the Android project for Mini 2 Assignment 3 Part B of 18-641, the class diagram and the outputs of project. This is an Android app used for marketing of Sting. It provides videos, audios, wallpapers and contact of Sting. You can also send message to join the Sting club.
+The details are as follows.
 
 There are two packages in the project:
 UI: the UI of the project including one activity and five fragments for different functions including the display of information, playing video and audio, showing image and sending message or email;
